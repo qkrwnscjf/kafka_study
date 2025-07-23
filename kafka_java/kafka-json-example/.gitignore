@@ -1,0 +1,26 @@
+# 빌드 결과물
+target/
+
+# IDE 설정
+.idea/
+.vscode/
+
+# MacOS 파일
+.DS_Store
+
+# 로그 파일
+*.log
+
+# 환경 변수 파일
+*.env
+
+# Eclipse 관련 설정
+.settings/
+.classpath
+.project
+
+# Maven Wrapper
+.mvn/
+
+# 컴파일된 클래스 파일
+*.class
