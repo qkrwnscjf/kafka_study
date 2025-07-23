@@ -1,0 +1,24 @@
+# DS_Store
+.DS_Store
+
+# Pycache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# venv
+.venv/
+venv/
+ENV/
+env/
+
+# etc
+build/
+dist/
+*.egg-info/
+.cache/
+*.log
+.env
+

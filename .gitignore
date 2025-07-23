@@ -1,0 +1,15 @@
+.DS_Store
+.vscode/
+.idea/
+
+kafka_java/kafka-json-example/target/
+
+
+kafka_python/venv/
+kafka_python/__pycache__/
+kafka_python/*.pyc
+
+*.log
+.env
+
+
